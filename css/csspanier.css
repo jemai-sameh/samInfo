@@ -1,0 +1,52 @@
+a:hover,a:link{
+  text-decoration:none;
+}
+  .paiement{  
+    width: 10%;
+    position: static;
+  }
+  #tab{
+    width: 100%;
+  }
+  
+  section{
+   align-items:flex-start;
+   flex-direction:row;
+   padding:10px;
+   margin:10px;
+   display:inline-flex;
+    align-items: center;
+    text-align: center;
+  }
+  #btn{
+
+background: #007500;
+color: white;
+overflow: hidden;
+font-weight: 500;
+line-height: 40px;
+margin-right: 2.5em;
+cursor: pointer;
+padding: 0 45px;
+position: relative;
+text-align: center;
+border: 0 solid transparent;
+box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+  
+}
+ #step{
+   width:100%;
+ }
+  #step ul li{
+    width:50%;
+    font-size:20pt;
+    padding:1% 2%;
+
+
+    display:inline;
+    border :0.5px solid #CACACA;
+    margin:5px;
+    background-color:#EFEEEE;
+
+  }
